@@ -1,0 +1,2 @@
+Programa de consola que crea la base de datos Libros en CosmosDb, la coleccion LibrosCollection en dicha base de datos y los documentos que contienen el codigo rfid y su estado.
+El codigo se encuentra en el archivo Program.cs dentro de la carpeta RegistrarRFID
